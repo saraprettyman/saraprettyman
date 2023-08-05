@@ -1,8 +1,6 @@
 <h3 align="center">A passionate Applied and Computational Mathematician with a strong interest in data science and software development.</h3>
 
-- 🌱 I’m currently learning **AWS Cloud Computating, specifically studying for the Cloud Practitioner Certification exam.**
-
-- 📫 How to reach me **saradprettym@gmail.com**
+🌱 I’m currently learning **AWS Cloud Computating, specifically studying for the Cloud Practitioner Certification exam.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
