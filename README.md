@@ -44,7 +44,7 @@
     <li>Introduction to Data Science (CS 5665)</li>
     <li>Introduction to Machine Learning (CS 4320)</li>
     <li>Data Technologies (STAT 5080)</li>
-    <<li>SQL Fundamentals (STAT 5810)</li>
-    <<li>Methods of Applied Mathematics (MATH 5410)</li>
+    <li>SQL Fundamentals (STAT 5810)</li>
+    <li>Methods of Applied Mathematics (MATH 5410)</li>
 </ul>
 
