@@ -15,12 +15,15 @@
 
 <h3 align="left">Courses Taken:</h3>
 <ul>
+    <li>Disruptive Technology (CAI 5010) </li>
+    <li>Ethics and Emerging Technology (CAI 5400) </li>
     <li>Introduction to Computer Science I (CS 1400)</li>
     <li>Introduction to Computer Science II (CS 1410)</li>
     <li>Data Structures & Algorithms (CS 2420)</li>
     <li>Introduction to Event Driven Programming & GUI's</li>
     <li>Introduction to Machine Learning (CS 4320)</li>
     <li>Introduction to Data Science (CS 5665)</li>
+    <li>Cyber Strategy in the Modern World (IS 5820) </li>
     <li>Calculus I, II, and III (MATH 1210, MATH 1220, MATH 2210)</li>
     <li>Discrete Mathematics (MATH 3310)</li>
     <li>Linear Algebra (MATH 2270)</li>
@@ -34,6 +37,7 @@
     <li>Introduction to Probability (MATH 5710)</li>
     <li>Methods of Applied Mathematics (MATH 5410)</li>
     <li>Introduction to Mathematical Statistics (MATH 5720)</li>
+    <li>Numerical Alogorithms for Differential Equations (MATH 5620) </li>
     <li>Statistics for Scientists (STAT 3000)</li>
     <li>Modern Regression Methods (STAT 5100)</li>
     <li>Introduction to R (STAT 5050)</li>
@@ -42,14 +46,6 @@
     <li>Statistical Learning and Data Mining I (STAT 5650)</li>
     <li>SQL Fundamentals (STAT 5810)</li>
     <li>Data Technologies (STAT 5080)</li>
-</ul>
-
-<h3 align="left">Courses Current Taking:</h3>
-<ul>
-    <li>Disruptive Technology (CAI 5010) </li>
-    <li>Ethics and Emerging Technology (CAI 5400) </li>
-    <li>Cyber Strategy in the Modern World (IS 5820) </li>
-    <li>Numerical Alogorithms for Differential Equations (MATH 5620) </li>
     <li>Data Science in Autonomous Vehicles & Robotics (STAT 5810) </li>
 </ul>
 
