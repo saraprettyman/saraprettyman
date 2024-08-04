@@ -1,19 +1,51 @@
 <h3 align="center">A passionate Computational and Applied Mathematician with a strong interest in data science and machine learning.</h3>
 
-🌱 I’m currently learning **AWS Cloud Computating, specifically studying for the Cloud Practitioner Certification exam.**
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+## Technologies
 
-<h3 align="left">Courses Taken:</h3>
+### Programming Languages & Libraries
+- **Python**: PyTorch, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+- **Other Languages/Frameworks**: Java, JavaScript, SQL, SAS, R, C/C++
+- **Data Formats**: JSON, XML, HTML, CSV, XLSX, PDF
+
+### Web3 & Cryptography
+- **Blockchain Protocols**
+- **Cryptographic Principles**: Hashing, Public-Key Cryptography, Digital Signatures
+- **Solidity**
+
+### Operating Systems & Tools
+- **Shell Scripting**: Bash, PowerShell
+- **Package Managers**: apt, pip, brew
+- **Tools**: grep, sed, adb, git
+- **Operating Systems**: Windows, Linux, macOS
+- **File Management**
+
+### Project Management & Collaboration
+- **Jira**, **Confluence**, **Figma**, **Bitbucket**, **GitHub**, **Lucid Software**
+
+## Education & Certifications
+
+- **SANS Cyber Threat Intelligence Summit & Training 2024** (12 credits)
+- **Postman API Fundamentals Student Expert**
+- **MITRE ATT&CK**
+- **Lockheed Martin Cyber Kill Chain**
+- **DFIR**
+
+## Awards & Scholarships
+
+- **College of Science Data Science Stackable Credentials Scholarship**
+- **Neville C. & Annie P. Hunsaker Mathematics Scholarship**
+- **Segal AmeriCorps Education Award**
+- **Deans Merit Scholarship**
+- **Hilbert Prize in Mathematics**
+
+## Text Editors/IDEs
+
+- **Visual Studio Code**
+- **IntelliJ IDEA**
+- **PyCharm**
+
+## Education
 <ul>
     <li>Disruptive Technology (CAI 5010) </li>
     <li>Ethics and Emerging Technology (CAI 5400) </li>
