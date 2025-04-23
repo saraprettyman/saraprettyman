@@ -32,7 +32,7 @@
 - **Operating Systems**: Windows, Linux, macOS
 - **File Management**
 
-### Programming Languages & Libraries
+### Libraries
 - **Python**: PyTorch, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
 
 
