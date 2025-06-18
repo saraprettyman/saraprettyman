@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">A passionate Computational and Applied Mathematician with a strong interest in data science</h3>
 
-- 🔭 I’m currently working on developing [Digital Resume Solutions](blog.digitalresumesolutions.org) blog
+- 🔭 I’m currently working on furthering my Web3 education for [Digital Resume Solutions LLC](https://digitalresumesolutions.org/). 
 
 - 🌱 I’m currently learning **React and Microsoft Azure data science applications**
 
