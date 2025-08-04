@@ -1,8 +1,18 @@
-<h1 align="center">Hi 👋, I'm Sara</h1>
+
+<!--Source: https://readme-typing-svg.demolab.com/demo/-->
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=70A5FD&center=true&repeat=false&width=700&height=70&lines=Hi!+%F0%9F%91%8B+I'm+Sara.+Welcome+to+my+GitHub.+)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&color=70A5FD&center=true&width=500&height=70&lines=Cloud+Certified+%7C+Data+Enthusiast+;Technical+Career+Coach)](https://git.io/typing-svg)
+</div>
+
 
 ## 🛠 &nbsp;Tech Stack
-
-<table align="center">
+<table border=0>
     <tr>
       <td>
             <!-- Programming Languages -->
@@ -42,7 +52,7 @@
                  alt="My GitHub Stats"/>
           </a>
           <a href="https://github.com/saraprettyman#gh-dark-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraprettyman&exclude_repo=Machine_Learning_Financial_Forcasting,saraprettyman.github.io&layout=donut&theme=tokyonight#gh-dark-mode-only" 
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraprettyman&exclude_repo=Machine_Learning_Financial_Forcasting,saraprettyman.github.io&layout=donut&theme=transparent#gh-dark-mode-only&hide_border=true" 
                  alt="My GitHub Stats"/>
           </a>
         </td>
@@ -50,10 +60,11 @@
 </table>
 
 ## 🔥 &nbsp;Streak Stats
+<!-- Source: https://streak-stats.demolab.com/demo/-->
 <td>
   <p align="center">
-          <a href="https://github.com/saraprettyman#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saraprettyman&theme=default"/></a>
-          <a href="https://github.com/saraprettyman#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saraprettyman&theme=tokyonight"/></a>
+          <a href="https://github.com/saraprettyman#gh-light-mode-only"><img src="https://streak-stats.demolab.com?user=saraprettyman&theme=default&hide_border=true"/></a>
+          <a href="https://github.com/saraprettyman#gh-dark-mode-only"><img src="https://streak-stats.demolab.com?user=saraprettyman&theme=tokyonight&hide_border=true"/></a>
         </td>
  </p>
 
