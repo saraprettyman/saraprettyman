@@ -80,7 +80,7 @@ timeline
     section Cloud Computing
         AWS Cloud Practitioner : February 2025
         Polkadot Blockchain Academy : July 2025
-        AWS Solutions Architect Associate : Exp - October 2025
+        AWS Solutions Architect Associate : October 2025
 ```
 
 ## 🤝🏻 &nbsp;Connect with Me
