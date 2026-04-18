@@ -121,5 +121,5 @@ timeline
 <a href="mailto:sara@digitalresumesolutions.org"><img src="https://img.shields.io/badge/-sara@digitalresumesolutions.org-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://medium.com/@saraprettyman"><img src="https://img.shields.io/badge/-@saraprettyman-03a147?style=flat&logo=Medium&logoColor=white"/></a>
 <a href="https://x.com/digital_resume_"><img src="https://img.shields.io/badge/-Digital Resume_-1DA1F2?style=flat&logo=X&logoColor=white"/></a>
-<a href="https://linkedin.com/in/saraprettyman"><img src="https://img.shields.io/badge/-Sara Prettyman-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/saraprettyman"><img src="https://custom-icon-badges.demolab.com/badge/-Sara_Prettyman-0077B5?style=flat&logo=linkedin-white&logoColor=white"/></a>
 </p>
