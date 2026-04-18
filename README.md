@@ -28,13 +28,13 @@
             <img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter" alt="Jupyter" />&nbsp;
             <img src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow" alt="TensorFlow" />&nbsp;
             <img src="https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch" alt="PyTorch" />&nbsp;
-            <img src="https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib" alt="Matplotlib" />&nbsp;
-            <img src="https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn" alt="Seaborn" />&nbsp;<br>
+            <img src="https://custom-icon-badges.demolab.com/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />&nbsp;
+            <img src="https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=python&logoColor=white" alt="Seaborn" />&nbsp;<br>
             <!-- Cloud Platforms -->
-            <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws" alt="AWS" />&nbsp;
-            <img src="https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure" alt="Azure" />&nbsp;
+            <img src="https://custom-icon-badges.demolab.com/badge/-AWS-05122A?style=flat&logo=aws&logoColor=white" alt="AWS" />&nbsp;
+            <img src="https://custom-icon-badges.demolab.com/badge/-Azure-05122A?style=flat&logo=msazure&logoColor=white" alt="Azure" />&nbsp;
             <img src="https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud" alt="GCP" />&nbsp;
-            <img src="https://img.shields.io/badge/-CloudFormation-05122A?style=flat&logo=amazonaws" alt="CloudFormation" />&nbsp;
+            <img src="https://custom-icon-badges.demolab.com/badge/-CloudFormation-05122A?style=flat&logo=aws&logoColor=white" alt="CloudFormation" />&nbsp;
             <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase" alt="Firebase" />&nbsp;
             <img src="https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=googlebigquery" alt="BigQuery" />&nbsp;<br>
             <!-- DevOps / CI / Observability -->
@@ -48,12 +48,10 @@
             <!-- Web -->
             <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React" />&nbsp;
             <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js" />&nbsp;
-            <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML" />&nbsp;
-            <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" />&nbsp;<br>
+            <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML" />&nbsp;<br>
             <!-- Databases -->
             <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=fff" alt="MySQL" />&nbsp;
-            <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=fff" alt="PostgreSQL" />&nbsp;
-            <img src="https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=amazon-dynamodb&logoColor=4053D6" alt="DynamoDB" />&nbsp;<br>
+            <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=fff" alt="PostgreSQL" />&nbsp;<br>
             <!-- Tools -->
             <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git" />&nbsp;
             <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub" />&nbsp;
