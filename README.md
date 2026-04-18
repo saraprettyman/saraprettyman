@@ -1,4 +1,3 @@
-
 <!--Source: https://readme-typing-svg.demolab.com/demo/-->
 <div align="center">
     
@@ -7,7 +6,7 @@
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&color=70A5FD&center=true&width=500&height=70&lines=Cloud+Certified+%7C+Data+Enthusiast+;Technical+Career+Coach)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&color=70A5FD&center=true&width=500&height=70&lines=Cloud+Certified+%7C+Data+Enthusiast+;Open+Source+Builder)](https://git.io/typing-svg)
 </div>
 
 
@@ -23,6 +22,7 @@
             <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++" />&nbsp;
             <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3" alt="R" />&nbsp;
             <img src="https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity" alt="Solidity" />&nbsp;<br>
+            <!-- Data / ML -->
             <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas" alt="Pandas" />&nbsp;
             <img src="https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy" alt="Numpy" />&nbsp;
             <img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter" alt="Jupyter" />&nbsp;
@@ -30,18 +30,31 @@
             <img src="https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch" alt="PyTorch" />&nbsp;
             <img src="https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib" alt="Matplotlib" />&nbsp;
             <img src="https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn" alt="Seaborn" />&nbsp;<br>
+            <!-- Cloud Platforms -->
             <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws" alt="AWS" />&nbsp;
             <img src="https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure" alt="Azure" />&nbsp;
             <img src="https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud" alt="GCP" />&nbsp;
+            <img src="https://img.shields.io/badge/-CloudFormation-05122A?style=flat&logo=amazonaws" alt="CloudFormation" />&nbsp;
+            <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase" alt="Firebase" />&nbsp;
+            <img src="https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=googlebigquery" alt="BigQuery" />&nbsp;<br>
+            <!-- DevOps / CI / Observability -->
             <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker" />&nbsp;
-            <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform" alt="Terraform" />&nbsp;<br>
+            <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform" alt="Terraform" />&nbsp;
+            <img src="https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins" alt="Jenkins" />&nbsp;
+            <img src="https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions" alt="GitHub Actions" />&nbsp;
+            <img src="https://img.shields.io/badge/-Splunk-05122A?style=flat&logo=splunk" alt="Splunk" />&nbsp;
+            <img src="https://img.shields.io/badge/-Datadog-05122A?style=flat&logo=datadog" alt="Datadog" />&nbsp;
+            <img src="https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare" alt="Cloudflare" />&nbsp;<br>
+            <!-- Web -->
             <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React" />&nbsp;
             <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js" />&nbsp;
             <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML" />&nbsp;
             <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" />&nbsp;<br>
+            <!-- Databases -->
             <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=fff" alt="MySQL" />&nbsp;
-            <img src="https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=amazon-dynamodb&logoColor=4053D6" alt="DynamoDB" />&nbsp;
-            <img src="https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb&logoColor=003545" alt="MariaDB" />&nbsp;<br>
+            <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=fff" alt="PostgreSQL" />&nbsp;
+            <img src="https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=amazon-dynamodb&logoColor=4053D6" alt="DynamoDB" />&nbsp;<br>
+            <!-- Tools -->
             <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git" />&nbsp;
             <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub" />&nbsp;
             <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Markdown" />&nbsp;
