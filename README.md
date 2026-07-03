@@ -113,7 +113,7 @@ timeline
         AWS Cloud Practitioner : February 2025
         Polkadot Blockchain Academy : July 2025
         AWS Solutions Architect Associate : October 2025
-        ? : June 2026
+        Acceptance into MS Data Science @ UT Austin : May 2026
 ```
 
 ## 🤝🏻 &nbsp;Connect with Me
